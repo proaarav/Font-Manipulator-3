@@ -1,0 +1,30 @@
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 38px ;
+}
+.heading{
+    font-size: 25px;
+    font-family: roboto;
+    width: 100%;
+    margin-top: 0px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+    font-family: roboto;
+}
+body{
+    background-color: white;
+}
+.copy_right_footer{
+    text-align: center;
+    width: 100%;
+    line-height: 2;
+    bottom: 0;
+    background-color: white;
+    color: black;
+    position: fixed;
+    font-family: cursive;
+    font-size: 20px;
+}
